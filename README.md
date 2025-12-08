@@ -12,7 +12,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/navinduprabashwara">
+  <a href="https://www.linkedin.com/in/navindu-prabashwara-05b82b391/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/navindudev">
