@@ -2,7 +2,7 @@
 
 <!-- Animated Wave Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&height=100&lines=+M.G.+Navindu+Prabashwara;NaviGamage+%F0%9F%9A%80;Full+Stack+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&height=100&lines=+M.G.+Navindu+Prabashwara;Full+Stack+Engineer" alt="Typing Animation" />
 </div>
 
 <!-- Profile Views Counter -->
