@@ -47,10 +47,3 @@
 
 ---
 
-## 📊 Recent Activity
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navigamage&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Coding%20Activity" alt="Contribution Graph" />
-</div>
-
